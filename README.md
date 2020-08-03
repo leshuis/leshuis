@@ -1,4 +1,9 @@
-### Hey, Im Leonard Eshuis
+### Hey, I'm Leonard Eshuis
+
+and i'm currently working on new knowledge and portfolio
+
+but i'm open for work, so hit me up if you have some jobopening
+https://www.linkedin.com/in/leonardeshuis/
 
 <!--
 **leshuis/leshuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
